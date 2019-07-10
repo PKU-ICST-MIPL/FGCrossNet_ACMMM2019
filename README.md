@@ -1,7 +1,7 @@
 # A New Benchmark and Approach for Fine-grained Cross-media Retrieval
 
 # Introduction
-This repository contains the pytorch codes, trained models, and the new benchmarks described in our ACM MM 2019 paper "[A New Benchmark and Approach for Fine-grained Cross-media Retrieval](http://59.108.48.34/tiki/download_paper.php?fileId=2018)".
+This repository contains the pytorch codes, trained models, and the new benchmarks described in our ACM MM 2019 paper "[A New Benchmark and Approach for Fine-grained Cross-media Retrieval](http://59.108.48.35/tiki/download_paper.php?fileId=2018)".
 
 For more details, please visit our [project page](www.icst.pku.edu.cn/mipl/FGCrossNet).
 

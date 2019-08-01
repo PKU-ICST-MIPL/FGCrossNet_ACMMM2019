@@ -35,7 +35,7 @@ For more details, please visit our [project page](www.icst.pku.edu.cn/mipl/FGCro
 Please visit our [project page](www.icst.pku.edu.cn/mipl/FGCrossNet).
 
 ## 2. Download trained models
-The trained models of our FGCrossNet framework can be downloaded from [OneDrive](https://1drv.ms/u/s!AvXsEBcM-dJyaVcIN0jU0SJ_YRU?e=a4ZTcZ).
+The trained models of our FGCrossNet framework can be downloaded from [OneDrive](https://1drv.ms/u/s!AvXsEBcM-dJyaVcIN0jU0SJ_YRU?e=a4ZTcZ) or [Baidu Cloud](https://pan.baidu.com/s/1L6nAykAQ2pfOjEx4O-vBkw).
 
 
 ## 3. Prepare audio data

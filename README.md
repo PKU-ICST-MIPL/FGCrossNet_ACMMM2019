@@ -30,11 +30,11 @@ For more details, please visit our [project page](www.icst.pku.edu.cn/mipl/FGCro
 - CUDA, tested on v9.0
 - Language: Python 3.6
 
-## 1. Download datasets
+## 1. Download dataset
 
 Please visit our [project page](www.icst.pku.edu.cn/mipl/FGCrossNet).
 
-## 2. Download trained models
+## 2. Download trained model
 The trained models of our FGCrossNet framework can be downloaded from [OneDrive](https://1drv.ms/u/s!AvXsEBcM-dJyaVcIN0jU0SJ_YRU?e=a4ZTcZ) or [Baidu Cloud](https://pan.baidu.com/s/1oFofvfoIvsNwXhb-b8i9Og).
 
 

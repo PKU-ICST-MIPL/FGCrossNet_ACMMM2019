@@ -35,7 +35,7 @@ For more details, please visit our [project page](http://59.108.48.34/tiki/FGCro
 Please visit our [project page](http://59.108.48.34/tiki/FGCrossNet/).
 
 ## 2. Download trained model
-The trained models of our FGCrossNet framework can be downloaded from [OneDrive](https://1drv.ms/u/s!AvXsEBcM-dJyaVcIN0jU0SJ_YRU?e=a4ZTcZ) or [Baidu Cloud](https://pan.baidu.com/s/1oFofvfoIvsNwXhb-b8i9Og).
+The trained models of our FGCrossNet framework can be downloaded from [OneDrive](https://1drv.ms/u/s!AvXsEBcM-dJyaVcIN0jU0SJ_YRU?e=a4ZTcZ), [Google Drive](https://drive.google.com/open?id=1Cyfh6073MXm-jOjUWU0HFGI4esEGh3KM) or [Baidu Cloud](https://pan.baidu.com/s/1oFofvfoIvsNwXhb-b8i9Og).
 
 
 ## 3. Prepare audio data

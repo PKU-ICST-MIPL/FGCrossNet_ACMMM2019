@@ -3,7 +3,7 @@
 # Introduction
 This repository contains the pytorch codes, trained models, and the new benchmarks described in our ACM MM 2019 paper "[A New Benchmark and Approach for Fine-grained Cross-media Retrieval](https://arxiv.org/abs/1907.04476)".
 
-For more details, please visit our [project page](http://59.108.48.34/tiki/FGCrossNet/).
+For more details, please visit our [project page](http://39.108.48.32/mipl/FGCrossNet/).
 
 **Results**
 
